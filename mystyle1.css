@@ -1,0 +1,56 @@
+.section1 {
+    /* background-image: url(images/homepage_pic.jpg);
+    */
+  height: 600px;
+  padding: 5% 0;
+}
+
+.mynavbar {
+  background:rgba(0,0,0,1.0);
+  border-color: rgba(0,0,0,0.0);
+  color: white;
+}
+
+.main_title{
+  text-align: center;
+  clear: left;
+  display: block;
+  color: white;
+  font-size: 3em;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-top: 5%;
+}
+
+.main_title h1{
+  font-size: 1.5em;
+}
+
+.main_title h3{
+  color:yellow;
+}
+
+footer{
+  padding:2% 0;
+  background-color: black;
+  color: white;
+}
+
+.section1_nosotros{
+  background: linear-gradient(111.68655302745492deg, rgba(243, 72, 104,1) 8.851778656126482%,rgba(242, 71, 104,1) 8.851778656126482%,rgba(158, 0, 236,1) 97.31027667984188%);
+  padding: 5% 0;
+}
+
+.section1_nosotros p{
+  font-size: 0.5em;
+}
+
+.section1_noticias {
+  background-image: url(images/homepage_pic.jpg);
+  height: 350px;
+  padding: 5% 0;
+}
+
+.main_title_noticias h3{
+  color:blue;
+}
