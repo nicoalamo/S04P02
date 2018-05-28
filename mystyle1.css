@@ -5,9 +5,9 @@ body{
 .section1 {
     /* background-image: url(images/homepage_pic.jpg);
     */
-  height: 600px;
+  height: 50%;
   padding-top: 0;
-  margin-bottom: 10%;
+  margin-bottom: 3%;
   background: lightgrey;
 }
 
@@ -18,17 +18,17 @@ body{
 }
 
 .section1 h1{
-  font-size: 4em;
+  font-size: 30px;
   color: black;
 }
 
 .section1 h2{
-  font-size: 2em;
+  font-size: 20px;
   color: yellow;
 }
 
 .section1 h3{
-  font-size: 2em;
+  font-size: 20px;
   color:red;
 }
 
